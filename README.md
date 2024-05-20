@@ -1,2 +1,3 @@
-# Food_CuoiKi_PhanTan
-# Food_CuoiKi_PhanTan
+# Ôn tập cuối kì môn lập trình phân tán với công nghệ Java
+
+# FOOD
